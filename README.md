@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GurpreetKaurKhalsa
-- 👀 I’m interested in learning web development from start
-- 🌱 I’m currently learning it on frontend mentor
+- 👀 I’m currently learning React JS
+- 🌱 I’m currently learning it on Scrimba
 - 💞️ I’m looking to collaborate on the same
 - 📫 My mail id is gkaurkhalsa12@gmail.com
 
